@@ -1,4 +1,3 @@
-# Exercise: Array DataStructure
 
 1. Let us say your expense for every month are listed below,
 	1. January -  2200
